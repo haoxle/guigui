@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f1121f-9e42-4b82-8c32-c697513627e6" name="Changes" comment="setup">
+    <list default="true" id="85f1121f-9e42-4b82-8c32-c697513627e6" name="Changes" comment="made a window with a button counter">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuiLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Gui.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GuiLogin">
     <configuration name="Gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Gui" />
       <module name="guigui" />
@@ -53,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GuiLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GuiLogin" />
+      <module name="guigui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuiLogin" />
         <item itemvalue="Application.Gui" />
       </list>
     </recent_temporary>
@@ -75,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673033721028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made a window with a button counter">
+      <created>1673034708726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673034708726</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup" />
+    <MESSAGE value="made a window with a button counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="made a window with a button counter" />
   </component>
 </project>
